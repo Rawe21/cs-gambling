@@ -1,5 +1,5 @@
 # CS2 Skin Simulator
-This is a simulator based on Counter Strike (CS2)
+This is a case opening simulator based on Counter Strike (CS2)
 
 # features
 marketplace, dynamic price changes, upgrader/wheel spin, case opening, terminal unsealing, trade ups.
