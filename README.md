@@ -1,4 +1,4 @@
-# cs-gambling
+# CS2 Skin Simulator
 This is a simulator based on Counter Strike (CS2)
 
 # features
