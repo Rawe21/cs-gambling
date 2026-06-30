@@ -12,4 +12,4 @@ why not
 
 i just made it because the case prices are wild these days
 
-this was made by AI, so there will be a lot of bugs.
+this was mostly made by AI, so there might be some bugs
